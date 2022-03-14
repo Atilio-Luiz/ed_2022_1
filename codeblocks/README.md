@@ -35,6 +35,8 @@ Code::Blocks vem com um tema branco por padrão e nem todos os usuários gostam.
 
 Primeiro você precisa baixar os temas, baixe aqui: [Code::Blocks Theme](https://drive.google.com/open?id=1qj6UpKXokr_QHLrRalMrTcMjsed8vKcI). Em seguida, extraia-o na Área de Trabalho. Certifique-se de que o aplicativo CodeBlocks esteja fechado. Agora, abra o programa **CB Share Config**. `CB Share Config` é uma ferramenta que é instalada juntamente com CodeBlocks. Ela pode ser encontrada como dito a seguir:
 
+#### Windows
+
 Para quem usa o sistema operacional Windows, execute o programa **cb_share_config.exe**. Ele deve estar na pasta onde você instalou o Code::Blocks. Uma imagem dele é mostrada abaixo.
 
 ![](cb_share.png)
