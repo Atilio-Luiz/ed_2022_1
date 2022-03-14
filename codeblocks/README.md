@@ -58,3 +58,12 @@ Siga os seguintes passos:
 ![](tela04.png)
 
 - Clique no botão `Transfer>>`, depois no botão `Save` e, finalmente, no botão `Close`. Pronto, instalação finalizada.
+
+- Para escolher o tema de sua preferência, abra o Code::Blocks, vá no menu e clique nas opções:
+`Settings` -> `Editor` -> Na barra lateral escolha `Sintax highlighting` -> Na opção `Colour theme` escolha o tema de sua preferência. Logo abaixo, a tela é exibida.
+
+![](tela05.png)
+
+---
+
+### Linux
