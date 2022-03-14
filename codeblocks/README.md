@@ -33,7 +33,7 @@ Code::Blocks vem com um tema branco por padrão e nem todos os usuários gostam.
 
 ### Como instalar os temas no Code::Blocks?
 
-Primeiro você precisa baixar os temas, baixe aqui: [Code::Blocks Theme](https://drive.google.com/open?id=1qj6UpKXokr_QHLrRalMrTcMjsed8vKcI). Em seguida, extraia-o na Área de Trabalho, você vai ver que foi extraído o arquivo **theme.conf**, ele contém os temas que queremos instalar. Antes de continuar adiante, certifique-se de que a aplicação Code::Blocks esteja fechada. Agora, abra o programa **CB Share Config**. `CB Share Config` é uma ferramenta que é instalada juntamente com CodeBlocks. Ela pode ser encontrada como dito a seguir:
+Primeiro você precisa baixar os temas, baixe aqui: [Code::Blocks Theme](https://drive.google.com/open?id=1qj6UpKXokr_QHLrRalMrTcMjsed8vKcI). Em seguida, extraia-o na Área de Trabalho, você vai ver que foi extraído o arquivo **theme.conf**, ele contém os temas que queremos instalar. Antes de continuar adiante, certifique-se de que a aplicação Code::Blocks esteja fechada. Agora, abra o programa **CB Share Config**. `CB Share Config` é uma ferramenta que é instalada juntamente com o CodeBlocks. A seguir, explico como usar essa ferramenta no Windows e no Linux.
 
 #### Windows
 
@@ -41,4 +41,15 @@ Para quem usa o sistema operacional Windows, execute o programa **cb_share_confi
 
 ![](cb_share.png)
 
-Carregue o arquivo **default.conf** à sua esquerda e default.conf à sua direita. Selecione os temas que deseja importar para Code::Block clicando nas caixas de seleção à esquerda e selecione Transfer>>> e Save. Vou recomendar a seleção de todos eles.
+Siga os seguintes passos:
+
+- Abra o programa **CB Share Config**
+- Navegue para a opção **Destination Configuration file**, que está no lado esquerdo, e selecione o arquivo **theme.conf** que você baixou anteriormente. Logo abaixo, mostro uma tela de como o programa estaria nesta etapa:
+
+![](tela02.png)
+
+- Selecione os temas que deseja importar para o Code::Blocks clicando nas caixas de seleção à esquerda. **Recomendação**: Marque todas as caixas de seleção. Logo abaixo, mostro uma tela de como o programa estaria nesta etapa:
+
+![](tela03.png)
+
+Com o **CB Share Config** aberto, carregue o arquivo **theme.conf** à sua esquerda e o arquivo **default.conf** à sua direita. Selecione os temas que deseja importar para Code::Block clicando nas caixas de seleção à esquerda e selecione `Transfer>>>` e depois `Save`. Recomendo a seleção de todos eles.
