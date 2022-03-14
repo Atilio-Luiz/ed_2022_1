@@ -10,7 +10,7 @@ Alguns vídeo-tutoriais de instalação do Code::Blocks:
 
 ## 2. Instalando Dark Themes no Code::Blocks
 
-![](tela01.png)
+![](tela06.png)
 
 O editor do Code::Blocks vem com um tema branco por padrão e nem todos os usuários gostam de uma tela branca luminosa para programar. Além disso, não há opção para alterar o tema do editor pelo próprio Code::Blocks, mas podemos alterá-lo manualmente. Logo abaixo, descrevo como instalar temas adicionais no Code::Blocks.
 
@@ -65,6 +65,8 @@ Siga os seguintes passos:
 `Settings` > `Editor` > Na barra lateral escolha `Sintax highlighting` > Na opção `Colour theme` escolha o tema de sua preferência. Logo abaixo, a tela é exibida.
 
 ![](tela05.png)
+
+![](tela01.png)
 
 ---
 
