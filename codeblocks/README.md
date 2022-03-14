@@ -12,7 +12,7 @@ Alguns vídeo-tutoriais de instalação do Code::Blocks:
 
 ![](tela01.png)
 
-Code::Blocks vem com um tema branco por padrão e nem todos os usuários gostam. Além disso, não há opção para alterar o tema do editor pelo próprio Code::Blocks, mas podemos alterá-lo manualmente. Logo abaixo, descrevo como instalar temas adicionais no Code::Blocks.
+O editor do Code::Blocks vem com um tema branco por padrão e nem todos os usuários gostam de uma tela branca luminosa para programar. Além disso, não há opção para alterar o tema do editor pelo próprio Code::Blocks, mas podemos alterá-lo manualmente. Logo abaixo, descrevo como instalar temas adicionais no Code::Blocks.
 
 ### Temas disponíveis para o Code::Blocks
 
