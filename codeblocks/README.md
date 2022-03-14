@@ -44,7 +44,8 @@ Para quem usa o sistema operacional Windows, execute o programa **cb_share_confi
 Siga os seguintes passos:
 
 - Abra o programa **CB Share Config**
-- Navegue para a opção **Destination Configuration file**, que está no lado esquerdo, e selecione o arquivo **theme.conf** que você baixou anteriormente. Logo abaixo, mostro uma tela de como o programa estaria nesta etapa:
+
+- Navegue para a opção **Source Configuration file**, que está no lado esquerdo, e selecione o arquivo **theme.conf** que você baixou anteriormente. Logo abaixo, mostro uma tela de como o programa estaria nesta etapa:
 
 ![](tela02.png)
 
@@ -52,4 +53,8 @@ Siga os seguintes passos:
 
 ![](tela03.png)
 
-Com o **CB Share Config** aberto, carregue o arquivo **theme.conf** à sua esquerda e o arquivo **default.conf** à sua direita. Selecione os temas que deseja importar para Code::Block clicando nas caixas de seleção à esquerda e selecione `Transfer>>>` e depois `Save`. Recomendo a seleção de todos eles.
+- Navegue para a opção **Destination Configuration file**, que está no lado direito, e selecione o arquivo **default.conf**. Logo abaixo, mostro uma tela de como o programa estaria nesta etapa:
+
+![](tela04.png)
+
+- Clique no botão `Transfer>>`, depois no botão `Save` e, finalmente, no botão `Close`. Pronto, instalação finalizada.
