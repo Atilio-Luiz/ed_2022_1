@@ -2,8 +2,10 @@
 
 Alguns vídeo-tutoriais de instalação do Code::Blocks:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2P_D1kn7_Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Vídeo: Instalação do Code::Blocks em Windows](https://youtu.be/2P_D1kn7_Q0)
 
-[Vídeo: Instalação Code::Blocks em Windows e Linux](https://youtu.be/z8nshkHY2Cs?t=531)
+[Vídeo: Instalação do Code::Blocks em Linux](https://youtu.be/z8nshkHY2Cs?t=519)
+
+[Link para o manuel do Code::Blocks (em inglês)](https://www.codeblocks.org/docs/manual_codeblocks_en.pdf)
 
 ## Customizando o Code::Blocks
