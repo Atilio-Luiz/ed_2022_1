@@ -1,4 +1,4 @@
-## Instalando o IDE Code::Blocks
+## 1. Instalando o IDE Code::Blocks
 
 Alguns vídeo-tutoriais de instalação do Code::Blocks:
 
@@ -8,7 +8,7 @@ Alguns vídeo-tutoriais de instalação do Code::Blocks:
 
 [Link para o manual do Code::Blocks (em inglês)](https://www.codeblocks.org/docs/manual_codeblocks_en.pdf)
 
-## Instalando Dark Themes no Code::Blocks
+## 2. Instalando Dark Themes no Code::Blocks
 
 ![](tela01.png)
 
@@ -31,7 +31,7 @@ O editor do Code::Blocks vem com um tema branco por padrão e nem todos os usuá
 - Solarized Dark
 - Solarized Light
 
-### Como instalar os temas no Code::Blocks?
+### 2.1 Como instalar os temas no Code::Blocks?
 
 Primeiro você precisa baixar os temas, baixe aqui: [Code::Blocks Theme](https://drive.google.com/open?id=1qj6UpKXokr_QHLrRalMrTcMjsed8vKcI). Em seguida, extraia-o na Área de Trabalho, você vai ver que foi extraído o arquivo **theme.conf**, ele contém os temas que queremos instalar. Antes de continuar adiante, certifique-se de que a aplicação Code::Blocks esteja fechada. Agora, abra o programa **CB Share Config**. `CB Share Config` é uma ferramenta que é instalada juntamente com o CodeBlocks. A seguir, explico como usar essa ferramenta no Windows e no Linux.
 
@@ -73,3 +73,13 @@ Siga os seguintes passos:
 - No Linux, abra o programa **CB Share Config** via terminal digitando o comando: `sudo cb_share_config`. 
 - A partir daqui, siga as mesmas intruções que foram dadas acima para o Windows. No Linux, o arquivo **default.conf** está localizado no endereço: `/home/$USER/.config/codeblocks/default.conf`
     - no endereço acima, troque `&USER` pelo seu nome de usuário na sua máquina. 
+
+## Referências
+
+Este tutorial foi baseado nos sequintes artigos:
+
+- https://sangams.com.np/installing-codeblocks-dark-themes/
+- https://yuchen52.medium.com/change-editor-theme-for-code-blocks-windows-linux-mac-92e9c15cbca4#:~:text=Open%20Code%3A%3ABlock.,the%20color%20theme%20drop%20list.
+- https://youtu.be/4uFMskcZ0eM
+- https://youtu.be/rjYN_eW-u6A
+
