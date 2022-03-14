@@ -2,6 +2,6 @@
 
 Alguns vídeo-tutoriais de instalação do Code::Blocks:
 
-https://youtube.com/embed/<2P_D1kn7_Q0>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2P_D1kn7_Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Customizando o Code::Blocks
