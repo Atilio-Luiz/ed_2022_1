@@ -2,6 +2,6 @@
 
 Alguns vídeo-tutoriais de instalação do Code::Blocks:
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+https://youtube.com/embed/<2P_D1kn7_Q0>
 
 ## Customizando o Code::Blocks
