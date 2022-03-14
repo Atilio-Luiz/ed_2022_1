@@ -35,6 +35,8 @@ Code::Blocks vem com um tema branco por padrão e nem todos os usuários gostam.
 
 Primeiro você precisa baixar os temas, baixe aqui: [Code::Blocks Theme](https://drive.google.com/open?id=1qj6UpKXokr_QHLrRalMrTcMjsed8vKcI). Em seguida, extraia-o na Área de Trabalho, você vai ver que foi extraído o arquivo **theme.conf**, ele contém os temas que queremos instalar. Antes de continuar adiante, certifique-se de que a aplicação Code::Blocks esteja fechada. Agora, abra o programa **CB Share Config**. `CB Share Config` é uma ferramenta que é instalada juntamente com o CodeBlocks. A seguir, explico como usar essa ferramenta no Windows e no Linux.
 
+---
+
 #### Windows
 
 Para quem usa o sistema operacional Windows, execute o programa **cb_share_config.exe**. Ele deve estar na pasta onde você instalou o Code::Blocks. Uma imagem dele é mostrada abaixo.
@@ -60,10 +62,14 @@ Siga os seguintes passos:
 - Clique no botão `Transfer>>`, depois no botão `Save` e, finalmente, no botão `Close`. Pronto, instalação finalizada.
 
 - Para escolher o tema de sua preferência, abra o Code::Blocks, vá no menu e clique nas opções:
-`Settings` -> `Editor` -> Na barra lateral escolha `Sintax highlighting` -> Na opção `Colour theme` escolha o tema de sua preferência. Logo abaixo, a tela é exibida.
+`Settings` > `Editor` > Na barra lateral escolha `Sintax highlighting` > Na opção `Colour theme` escolha o tema de sua preferência. Logo abaixo, a tela é exibida.
 
 ![](tela05.png)
 
 ---
 
-### Linux
+#### Linux
+
+- No Linux, abra o programa **CB Share Config** via terminal digitando o comando: `sudo cb_share_config`. 
+- A partir daqui, siga as mesmas intruções que foram dadas acima para o Windows. No Linux, o arquivo **default.conf** está localizado no endereço: `/home/$USER/.config/codeblocks/default.conf`
+    - no endereço acima, troque `&USER` pelo seu nome de usuário na sua máquina. 
