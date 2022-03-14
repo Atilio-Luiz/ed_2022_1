@@ -33,7 +33,7 @@ Code::Blocks vem com um tema branco por padrão e nem todos os usuários gostam.
 
 ### Como instalar os temas no Code::Blocks?
 
-Primeiro você precisa baixar os temas, baixe aqui: [Code::Blocks Theme](https://drive.google.com/open?id=1qj6UpKXokr_QHLrRalMrTcMjsed8vKcI). Em seguida, extraia-o na Área de Trabalho. Certifique-se de que o aplicativo CodeBlocks esteja fechado. Agora, abra o programa **CB Share Config**. `CB Share Config` é uma ferramenta que é instalada juntamente com CodeBlocks. Ela pode ser encontrada como dito a seguir:
+Primeiro você precisa baixar os temas, baixe aqui: [Code::Blocks Theme](https://drive.google.com/open?id=1qj6UpKXokr_QHLrRalMrTcMjsed8vKcI). Em seguida, extraia-o na Área de Trabalho, você vai ver que foi extraído o arquivo **theme.conf**, ele contém os temas que queremos instalar. Antes de continuar adiante, certifique-se de que a aplicação Code::Blocks esteja fechada. Agora, abra o programa **CB Share Config**. `CB Share Config` é uma ferramenta que é instalada juntamente com CodeBlocks. Ela pode ser encontrada como dito a seguir:
 
 #### Windows
 
