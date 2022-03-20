@@ -56,3 +56,16 @@ Também é possível configurar o compilador no Code::blocks para que ele use a 
 
 ![](tela04.png)
 
+---
+
+## Exportando suas configurações
+
+É cansativo ter que selecionar novamente todas as opções de configurações toda vez que você cria um novo projeto. Felizmente, o Code::Blocks oferece uma maneira de exportar suas configurações. 
+
+Isso normalmente é feito criando um novo modelo de projeto com as configurações desejadas e selecionando esse modelo de projeto ao criar um novo projeto.
+
+No Code::Blocks, escolha *File* > *Save project as template*. Dê um nome ao seu template e salve.
+
+Quando você criar um novo projeto, você encontrará este template na opção *User templates*
+
+
