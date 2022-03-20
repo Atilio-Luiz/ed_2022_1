@@ -19,6 +19,6 @@ Depois, vá para a aba *Other compiler options* e adicione **-Wsign-conversion**
 
 ![](tela02.png)
 
-### Desabilitando extensões do compilador GCC/G++
+### Configurando *warnings* no compilador GCC/G++
 
 Se você estiver compilando com o g++ via terminal, adicione as seguintes *flags* à linha de comando:  *-Wall -Weffc++ -Wextra -Wsign-conversion*
