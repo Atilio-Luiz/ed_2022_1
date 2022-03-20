@@ -76,7 +76,7 @@ Siga os seguintes passos:
 
 ## Referências
 
-Este tutorial foi baseado nos sequintes artigos:
+Este tutorial foi baseado nos seguintes artigos:
 
 - https://sangams.com.np/installing-codeblocks-dark-themes/
 - https://yuchen52.medium.com/change-editor-theme-for-code-blocks-windows-linux-mac-92e9c15cbca4#:~:text=Open%20Code%3A%3ABlock.,the%20color%20theme%20drop%20list.

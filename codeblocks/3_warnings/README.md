@@ -22,3 +22,18 @@ Depois, vá para a aba *Other compiler options* e adicione **-Wsign-conversion**
 ### Configurando *warnings* no compilador GCC/G++
 
 Se você estiver compilando com o g++ via terminal, adicione as seguintes *flags* à linha de comando:  *-Wall -Weffc++ -Wextra -Wsign-conversion*
+
+---
+
+## Escolhendo uma versão do compilador
+
+Até o momento, a linguagem C++ possui seis revisões de padronização da linguagem:
+
+| Ano    | Nome Formal |  Nome Informal |
+| ---    | ---         | ---            |
+| 1998   | c++98       |                |
+| 2003   | c++03       |                |
+| 2011   | c++11       |  c++1x         |
+| 2014   | c++14       |  c++1y         |
+| 2017   | c++07       |  c++1z         |
+| 2020   |             |  c++2a         |
