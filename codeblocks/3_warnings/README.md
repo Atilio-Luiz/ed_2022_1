@@ -35,5 +35,24 @@ Até o momento, a linguagem C++ possui seis revisões de padronização da lingu
 | 2003   | c++03       |                |
 | 2011   | c++11       |  c++1x         |
 | 2014   | c++14       |  c++1y         |
-| 2017   | c++07       |  c++1z         |
+| 2017   | c++17       |  c++1z         |
 | 2020   |             |  c++2a         |
+
+Para as nossas aulas, o ideal será utilizar a versão c++17 ou a versão c++2a.
+Obervando que a versão 2020 da linguagem ainda está sob teste.
+
+### Escolhendo a versão c++17
+
+Uma notícia boa é que o Code::Blocks permite configurar a versão da linguagem de forma global, o que significa que você não terá que configurar isso a cada momento que criar um novo projeto. Basta fazer uma única vez!
+
+Para fazer isso vá na opção de menu *Settings* > *Compiler* e então encontre e marque a opção **Have g++ follow the c++17 ISO C++ language standard [-std=c++17]**
+
+![](tela03.png)
+
+
+### Escolhendo a versão c++2a 
+
+Também é possível configurar o compilador no Code::blocks para que ele use a versão mais recente, que é a c++2a. Para fazer isso vá na opção de menu *Settings* > *Compiler* e então vá na aba *Other compiler options* e adicione a flag **-std=c++2a** como ilustrado na tela abaixo.
+
+![](tela04.png)
+
