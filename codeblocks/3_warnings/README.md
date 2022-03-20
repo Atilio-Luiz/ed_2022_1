@@ -52,7 +52,7 @@ Para fazer isso vá na opção de menu *Settings* > *Compiler* e então encontre
 
 ### Escolhendo a versão c++2a 
 
-Também é possível configurar o compilador no Code::blocks para que ele use a versão mais recente, que é a c++2a. Para fazer isso vá na opção de menu *Settings* > *Compiler* e então vá na aba *Other compiler options* e adicione a flag **-std=c++2a** como ilustrado na tela abaixo.
+Também é possível configurar o compilador no Code::blocks para que ele use a versão mais recente, que é a c++2a. Para isso, é preciso que você desmarque todas as outras opções de compilador que você possa ter  escolhido na etapa anterior. Feito isso, vá na opção de menu *Settings* > *Compiler* e então vá na aba *Other compiler options* e adicione a flag **-std=c++2a** como ilustrado na tela abaixo.
 
 ![](tela04.png)
 
