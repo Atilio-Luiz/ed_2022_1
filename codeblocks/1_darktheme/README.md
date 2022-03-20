@@ -74,6 +74,11 @@ Siga os seguintes passos:
 - A partir daqui, siga as mesmas intruções que foram dadas acima para o Windows. No Linux, o arquivo **default.conf** está localizado no endereço: `/home/$USER/.config/codeblocks/default.conf`
     - no endereço acima, troque `&USER` pelo seu nome de usuário na sua máquina. 
 
+**Observação:** Após fazer o procedimento acima, o Code::Blocks passou a emitir a mensagem de erro: `"code::blocks could not save config file default.conf"`
+
+Para resolver esse problema, siga as instruções desse vídeo: https://youtu.be/-tYUscMnMno
+
+
 ## Referências
 
 Este tutorial foi baseado nos seguintes artigos:
